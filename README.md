@@ -1,4 +1,4 @@
-CCSDS_MO
+CCSDS MO Wiki
 ========
 
-Repository for holding all CCSDS MO documentation, examples, tutorials and issue lists.
+The [CCSDS MO wiki](http://github.com/esa/CCSDS_MO/wiki) contains articles on getting started with MO services.
